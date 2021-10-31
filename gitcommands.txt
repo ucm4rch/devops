@@ -1,0 +1,22 @@
+echo "# devops" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ucm4rch/devops.git
+git push -u origin main
+
+
+git remote add origin https://github.com/ucm4rch/devops.git
+git branch -M main
+git push -u origin main
+
+touch 1 2 3   create new files
+ls   list
+git show
+
+
+git config --global user.email "udai@google.com"
+git config --global user.name "udai"
+
+
